@@ -1,0 +1,7 @@
+Pizza_Margarita_12.35
+Pizza_Pepperoni_8.79
+Pizza_Neapolitano_19.75
+Pizza_FourCheeses_7.59
+Drink_Tea_1.20
+Drink_Coffee_3.79
+Drink_MineralWater_2.49
